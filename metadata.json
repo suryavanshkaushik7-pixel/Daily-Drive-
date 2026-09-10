@@ -1,0 +1,6 @@
+{
+  "name": "Daily Drive",
+  "description": "All-in-one competitive exam preparation platform with quizzes, mock tests, PYQs, syllabus, eligibility & career guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
